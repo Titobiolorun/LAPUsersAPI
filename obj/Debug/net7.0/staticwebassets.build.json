@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jyHWFOElrVA3uRSzQBiQZYjM2dhzZ4vYn6ErHdk4m5Y=",
+  "Source": "LAPUsersAPI",
+  "BasePath": "_content/LAPUsersAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
