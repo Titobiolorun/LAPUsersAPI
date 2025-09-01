@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\t.ogundipe\\Documents\\PersonalProjects\\LarfageAssessmentTest\\LAPUsersAPI\\wwwroot\\init.txt",
+      "PackagePath": "staticwebassets\\init.txt"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.LAPUsersAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.LAPUsersAPI.props",
+      "PackagePath": "build\\LAPUsersAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LAPUsersAPI.props",
+      "PackagePath": "buildMultiTargeting\\LAPUsersAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.LAPUsersAPI.props",
+      "PackagePath": "buildTransitive\\LAPUsersAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

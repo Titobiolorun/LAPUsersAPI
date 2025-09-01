@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8o05ny9hqdNXw6nWRRied/fVj3g0yIBcYNvkbRbr9E4=",
+  "Source": "LAPUsersAPI",
+  "BasePath": "_content/LAPUsersAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LAPUsersAPI\\wwwroot",
+      "Source": "LAPUsersAPI",
+      "ContentRoot": "C:\\Users\\t.ogundipe\\Documents\\PersonalProjects\\LarfageAssessmentTest\\LAPUsersAPI\\wwwroot\\",
+      "BasePath": "_content/LAPUsersAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\t.ogundipe\\Documents\\PersonalProjects\\LarfageAssessmentTest\\LAPUsersAPI\\wwwroot\\init.txt",
+      "SourceId": "LAPUsersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\t.ogundipe\\Documents\\PersonalProjects\\LarfageAssessmentTest\\LAPUsersAPI\\wwwroot\\",
+      "BasePath": "_content/LAPUsersAPI",
+      "RelativePath": "init.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\init.txt"
+    }
+  ]
+}
